@@ -1,5 +1,7 @@
 # Timer: Your AI-powered scheduling sidekick—create, track, and manage tasks effortlessly with a smart, interactive companion
 
+本人在原本的项目框架基础上，增加了桌宠功能，实现消息提醒的便捷化并附加了陪伴功能。具体工作内容在[此目录](https://github.com/marious5/Timer/tree/main/pet)下。
+
 ## 🧑🏻‍💻 Usage
 
 通过 [Web Page](https://timer-frontends-a12f7h6lc-whizhous-projects-7cb8caf3.vercel.app) 使用 Timer
